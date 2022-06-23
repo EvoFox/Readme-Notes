@@ -22,7 +22,7 @@ While it could be explained in the comments you leave in your code, they're usel
 An important thing to note is that there is no singluar correct way to structure a good README, but there is one very wrong way - **not including one at all**.
 
 Every day is a potential to learn, writing good documentation will not come without effort. It may be worth your time to browse GitHub repositories, and take a look at their README files.
-You need not understand the topic or the code, but browsing (trending repositories)[https://github.com/trending] and analyzing their structure could help you learn what makes a good README.
+You need not understand the topic or the code, but browsing [trending repositories](https://github.com/trending) and analyzing their structure could help you learn what makes a good README.
 
 ### What to include?
 
@@ -65,33 +65,25 @@ All these questions can help you figure out what should be included in the READM
    > If you followed a tutorial to build a project that you usually wouldn't undertake, share a link to it here to allow for others to try and follow it too, share the knowledge!
    > Someone inspired you to toil in the code mines for it? They can go here too.
 7. License (maybe)
-   > Make it clear to other developers what they can and cannot do with your work, this should always be right near the end of your README file, this is for the people who are REALLY interested in your project.
-   > It's likely you won't delve into this for a long time yet, not until you're working on projects that could _probably_ be sold. When you get to this point though, take a look at (ChooseALicense)[https://choosealicense.com]
+   > Make it clear to other developers what they can and cannot do with your work, this should always be right near the end of your README file, this is forr the people who are REALLY interested in your project.
+   > It's likely you won't delve into this for a long time yet, not until you're working on projects that could _probably_ be sold. When you get to this point though, take a look at [ChooseALicense](https://choosealicense.com)
    > It's a site that will help you choose a license that fits what you need. The most common license is GPL (General Public License) which allows others to make modifications to your code and use it for commercial uses.
 
 ### Additional README Sections
 
 8. Badges!
    > So at this point we've reached the optional portion, badges give you a touch of additional flair, badges are an excellent way to do this.
-   > Using (Shields.io)[https://shields.io] you can get some suggested badges for your projects, here is an example from a (currently trending repository)[https://github.com/cloudwego/hertz] at the time of writing that utilises a couple to show off, right at the start of their README
+   > Using [Shields.io](https://shields.io) you can get some suggested badges for your projects, here is an example from a [currently trending repository](https://github.com/cloudwego/hertz] at the time of writing that utilises a couple to show off, right at the start of their README
    > ![image](./img/badgesExample.png)
-   > They're ideal to use if your repository is popular, and is being forked often. You can also use this (repository)[https://github.com/Ileriayo/markdown-badges] to see what badges there are for you to use
+   > They're ideal to use if your repository is popular, and is being forked often. You can also use this [repository](https://github.com/Ileriayo/markdown-badges) to see what badges there are for you to use
    > One that may be useful to implement into some of the front end projects we have worked on thus far are:
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+
 
 9. How to contribute!
 
    > This is a section for if you're trying to create an open source project that you want other developers to be able to work on alongside you. Setting guidelines for what can be added to the project, and the process to do it. This also meshes with adding a license, as you'll want to make sure that the license you choose for an open source project is correct to avoid conflicts in the future.
-   > For this, I suggest familiarising yourselves with the (Contributor Covenant)[https://www.contributor-covenant.org] and (Contributor Guidelines)[https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors]. Having them available when launching an Open source project will be invaluable.
+   > For this, I suggest familiarising yourselves with the [Contributor Covenant](https://www.contributor-covenant.org) and [Contributor Guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors). Having them available when launching an Open source project will be invaluable.
 
 10. Include some tests!
     > Do this when you're confident in your code, write up some tests for your code and give a guide on how to run them. This shows that you're confident that your project will work flawlessly, and inspire that same confidence in others.
