@@ -72,13 +72,12 @@ All these questions can help you figure out what should be included in the READM
 ### Additional README Sections
 
 8. Badges!
+
    > So at this point we've reached the optional portion, badges give you a touch of additional flair, badges are an excellent way to do this.
    > Using [Shields.io](https://shields.io) you can get some suggested badges for your projects, here is an example from a [currently trending repository](https://github.com/cloudwego/hertz] at the time of writing that utilises a couple to show off, right at the start of their README
    > ![image](./img/badgesExample.png)
    > They're ideal to use if your repository is popular, and is being forked often. You can also use this [repository](https://github.com/Ileriayo/markdown-badges) to see what badges there are for you to use
    > One that may be useful to implement into some of the front end projects we have worked on thus far are:
-
-
 
 9. How to contribute!
 
@@ -94,7 +93,7 @@ Make sure to keep your README files up to date, there's nothing worse than follo
 
 Should you be making a project that is useful globally, you may want to consider passing your README through a translator, to make it easier on non-english speaking readers. (Or if your project is important enough, getting it done professionally)
 
-**With everything said and done, I'm now going to create a README for this README**
+**With everything said and done, I'm now going to create a README for this README (as much as possible without code, at least)**
 
 ---
 
@@ -104,3 +103,23 @@ Should you be making a project that is useful globally, you may want to consider
 # A short guide to writing README files
 
 This project was undertaken during a coding bootcamp, where I was asked to give a technical talk. I chose to write about README files, as I feel like the importance of them is often understated, despite them being a crucial aspect in new developers learning how to use libraries and frameworks.
+
+I do believe that having a GitHub full of well-documented simple repositories is potentially more appealing to potential employers than a GitHub full of poorly-documented impressive repositories, since well-presented projects are going to retain far more attention than code alone.
+
+## Instructions
+
+Take this guide as an introduction, it is far from complete. Use the tips and theories here as a foundation for you to branch off of. Bookmark the resources I list below, and store them for future reference.
+
+## Collaborators and reference material
+
+While I may have written this README alone, I certainly could not have done it without [this wonderful article from Hillary Nyakundi at freeCodeCamp](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/).
+Nor could it look quite this good without the [documentation from GitHub on the available syntax of Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) and the [badges of Shield.io](https://shields.io)
+
+#### Collected list of the links sprinkled through this README
+
+- [GitHub Trending Repositories](https://github.com/trending)
+- [Choose A License Website](https://choosealicense.com)
+- [The Contributor Covenant](https://www.contributor-covenant.org)
+- [The GitHub Contributor Guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+- [The example repository used as an example, Hertz](https://github.com/cloudwego/hertz)
+- [Markdown Shortcuts, a useful repository I used to ease the creation of this README](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts)
