@@ -78,7 +78,16 @@ All these questions can help you figure out what should be included in the READM
    > ![image](./img/badgesExample.png)
    > They're ideal to use if your repository is popular, and is being forked often. You can also use this [repository](https://github.com/Ileriayo/markdown-badges) to see what badges there are for you to use
    > One that may be useful to implement into some of the front end projects we have worked on thus far are:
-
+   
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 9. How to contribute!
 
    > This is a section for if you're trying to create an open source project that you want other developers to be able to work on alongside you. Setting guidelines for what can be added to the project, and the process to do it. This also meshes with adding a license, as you'll want to make sure that the license you choose for an open source project is correct to avoid conflicts in the future.
